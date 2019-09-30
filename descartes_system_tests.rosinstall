@@ -1,0 +1,4 @@
+- git: {local-name: descartes_light, uri: 'https://github.com/swri-robotics/descartes_light.git', version: master}
+- git: {local-name: tesseract, uri: 'https://github.com/ros-industrial-consortium/tesseract.git', version: master}
+- git: {local-name: trajopt_ros, uri: 'https://github.com/ros-industrial-consortium/trajopt_ros.git', version: master}
+- git: {local-name: ur_ikfast_kinematics, uri: 'https://github.com/schornakj/ur_ikfast_kinematics.git', version: master}
